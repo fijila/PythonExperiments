@@ -1,0 +1,2 @@
+class InsufficientException(Exception):
+  pass
